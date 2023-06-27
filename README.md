@@ -1,8 +1,13 @@
 # Record Pools of Meltwater on George VI Ice Shelf, Antarctica
  This project uses MATLAB image processing toolbox to study the use of image processing techniques to analyze the amount of Ice melting during a period of time in a region
 
- The Following is the original image captured by the satellite
+ The Following is the original image captured by the satellite, during two different dates
  ![original image](https://github.com/joseashly999/Image_processing/blob/main/iceimage.png)
+
+ After Running the code the output looks like this. In the preprocessed image it is easier to identify the area increased by the ice melt on the two dates.
+ ![processed image](https://github.com/joseashly999/Image_processing/blob/main/icemasked.png)
+
+ 
 
  
 
